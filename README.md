@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParakhNigam
-- 👀 I’m interested in competitive programming and computer sciences.
-- 🌱 I’m currently learning C++ .
+- 👀 I’m interested in web development and competitive programming.
+- 🌱 I’m currently learning JS .
 - 📫 How to reach me : parakhnigam13@gmail.com 
 
 <!---
